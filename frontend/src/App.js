@@ -4,7 +4,9 @@ function App() {
       <header>
         <a href="/">amazona</a>
       </header>
-      <main>list products</main>
+      <main>
+        <h1> Featured products</h1>
+      </main>
       <footer>@2022</footer>
     </div>
   );
